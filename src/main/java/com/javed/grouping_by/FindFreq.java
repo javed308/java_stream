@@ -18,6 +18,7 @@ public class FindFreq {
                         )
                 );
 
+        System.out.println(map);
     }
 
 
